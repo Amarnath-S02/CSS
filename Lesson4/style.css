@@ -1,0 +1,40 @@
+h1{
+    border: 2px dashed red;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+}
+
+.container{
+    border: 5px double blue;
+    /* border-top: 2px dotted blue;
+    border-right: 2px dashed blue; */
+    width: 50%;
+    margin-left: 0.5rem;
+    margin-top: 1em;
+    padding: 0.5rem;
+}
+
+.circle{
+    background-color: rgb(137, 124, 206);
+    margin: 3rem auto;
+    padding: 0.5rem;
+    border: 2px double rgb(139, 148, 190);
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    outline: 2px solid red;
+    outline-offset: 0.25rem;
+
+}
+
+div p{
+    color: rgb(48, 6, 102);
+    font-size: 16px;
+    font-family: serif;
+    font-style: italic;
+}
+
+
+
+

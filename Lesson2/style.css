@@ -1,0 +1,48 @@
+body{
+    font-size: 22px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: papayawhip;
+    
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+    color: rgb(112, 29, 189);
+   
+    
+}
+
+main{
+    
+    border: 2px solid black;
+    box-shadow: 5px 3px rgb(138, 138, 119);
+    padding: 15px;
+    margin: 0px;
+
+    justify-content: center;
+}
+
+h2{
+    font-size: 20px;
+    font-style: italic;
+    color: blue;
+}
+p{
+    font-size: 18px;
+    
+}
+
+.one{
+    color: rgb(0, 92, 128);
+
+}
+
+.two{
+    color: rgb(255, 26, 95);
+}
+
+.three{
+    color: rgb(90, 4, 90);
+}
