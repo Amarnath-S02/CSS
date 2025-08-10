@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Playwrite+HU:wght@100..400&display=swap');
+
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family: "Libertinus Serif", serif;
+}
+h1{
+    text-align: center;
+}
+p{
+    line-height: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+
+a{
+     text-decoration: none;
+     line-height: 2em;
+     font-style: oblique;
+     text-transform: capitalize;
+     cursor: pointer;
+}
+a:visited{
+    color: purple;
+
+}
+a:hover,a:focus{
+    color: darkblue;
+    background-color: rgb(127, 22, 153);
+    opacity: 1;
+}
+a:active{
+    color: red;
+}
