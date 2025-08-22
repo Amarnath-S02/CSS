@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+   
+}
+
+nav{
+    margin :2rem auto 2rem;
+    border: 2px solid #333;
+    max-width: 400px;
+    font-size: 3rem;
+    border-radius: 2rem ;
+    line-height: 3rem;
+    
+}
+
+h2{
+    padding: 1rem;
+    color: rgb(255, 255, 255);
+    background-color: rgb(5, 122, 34);
+    border-radius: 2rem 2rem 0 0 ;
+}
+
+ul{
+    list-style-type: none;
+     
+}
+li{
+    border-top: 1px solid #474444;
+}
+
+li a{
+    padding: 1rem;
+    color: rgb(46, 43, 43);
+    display: block;
+}
+
+li a,li a:visited{
+    text-decoration: none;
+   
+}
+
+li a:focus,
+li a:hover{
+    cursor: pointer;
+    color: white;
+    background-color:rgb(66, 173, 93);
+}
+
+
+li:last-child a{
+    color: white;
+    background-color: rgb(5, 122, 34);
+    border-radius: 0 0 2rem 2rem;
+}
+
+
